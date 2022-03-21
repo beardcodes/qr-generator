@@ -9,7 +9,7 @@ A mini project generating QR using HTML, CSS and JavaScript
 
 ### Screenshot
 
-<img src="/images/screenshot.png" alt="">
+<img src="/images/screenshot.PNG" alt="">
 
 ### Links
 
